@@ -6,19 +6,15 @@
 Tabela de conteúdos
 =================
 <!--ts-->
-   * [Sobre](#Descrição do Projeto)
-   * [Tabela de Conteudo](#tabela-de-conteudo)
-   * [Instalação](#instalacao)
+   * [Sobre](#descrição-do-projeto)
    * [Como usar](#como-usar)
-      * [Pre Requisitos](#pre-requisitos)
-      * [Local files](#local-files)
-      * [Remote files](#remote-files)
-      * [Multiple files](#multiple-files)
-      * [Combo](#combo)
-   * [Tests](#testes)
+     * [Pré-Requisitos](#pre-requisitos)
+     * [Rodando a aplicação](#local-files)
    * [Tecnologias](#tecnologias)
 <!--te-->
  
+## Como Usar
+
 ### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
