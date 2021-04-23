@@ -8,9 +8,9 @@ Tabela de conteúdos
 <!--ts-->
    * [Sobre](#descrição-do-projeto)
    * [Como usar](#como-usar)
-     * [Pré-Requisitos](#pre-requisitos)
-     * [Rodando a aplicação](#local-files)
-   * [Tecnologias](#tecnologias)
+     * [Pré-Requisitos](#pré-requisitos)
+     * [Rodando a aplicação](#-rodando-a-aplicação)
+   * [Tecnologias](#-tecnologias)
 <!--te-->
  
 ## Como Usar
@@ -42,7 +42,7 @@ $ yarn dev
 # A aplicação inciará na porta:3000 - acesse <http://localhost:3000>
 ```
 
-### 🛠 Tecnologias
+## 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
