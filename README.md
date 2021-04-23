@@ -11,6 +11,8 @@ Tabela de conteúdos
      * [Pré-Requisitos](#pré-requisitos)
      * [Rodando a aplicação](#-rodando-a-aplicação)
    * [Tecnologias](#-tecnologias)
+   * [Autor](#-autor)
+   * [Licença](#-liçenca)
 <!--te-->
  
 ## Como Usar
@@ -51,3 +53,23 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [TypeScript](https://www.typescriptlang.org/)
 - [Next.js](https://nextjs.org/)
 - [Sass](https://sass-lang.com/)
+
+## Autor
+---
+
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/36886923?s=400&u=0f1b25cca90cce5bd10df913cd67ac05fc777213&v=4" width="100px;" alt=""/>
+ <br />
+ <sub><b>Ítalo de Rezende</b></sub>🚀
+
+
+Feito por Ítalo de Rezende 👋🏽 Entre em contato!
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-Ítalo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%C3%ADtalo-rezende-60a5571b2/)](https://www.linkedin.com/in/%C3%ADtalo-rezende-60a5571b2/) 
+
+[![Gmail Badge](https://img.shields.io/badge/-italo.rezende@gec.inatel.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:italo.rezende@gec.inatel.br)](mailto:italo.rezende@gec.inatel.br)
+
+
+## Licença
+
+![GitHub](https://img.shields.io/github/license/ItaloRez/Podcastr)
