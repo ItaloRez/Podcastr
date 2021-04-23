@@ -1,4 +1,5 @@
-﻿Podcastr, Desenvolvimento da frontend de um site de podcast, acompanhando o evento NLW 5 da RocketSeat
+﻿# Podcastr 
+ ## Desenvolvimento da frontend de um site de podcast, acompanhando o evento NLW 5 da RocketSeat
  
  Para utilizar, baixar:
  
