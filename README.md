@@ -1,5 +1,23 @@
 <h1 align="center"> Podcastr </h1>
-<p align="center"> Desenvolvimento da frontend de um site de podcast, acompanhando o evento NLW 5 da RocketSeat </p>
+
+## Descrição do Projeto
+<p>Desenvolvimento da frontend de um site de podcast, acompanhando o evento NLW 5 da RocketSeat</p>
+ 
+Tabela de conteúdos
+=================
+<!--ts-->
+   * [Sobre](#Descrição do Projeto)
+   * [Tabela de Conteudo](#tabela-de-conteudo)
+   * [Instalação](#instalacao)
+   * [Como usar](#como-usar)
+      * [Pre Requisitos](#pre-requisitos)
+      * [Local files](#local-files)
+      * [Remote files](#remote-files)
+      * [Multiple files](#multiple-files)
+      * [Combo](#combo)
+   * [Tests](#testes)
+   * [Tecnologias](#tecnologias)
+<!--te-->
  
 ### Pré-requisitos
 
@@ -7,7 +25,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
-### 🎲 Rodando a aplicação (servidor)
+### 🎲 Rodando a aplicação
 
 ```bash
 # Clone este repositório
@@ -27,3 +45,13 @@ $ yarn dev
 
 # A aplicação inciará na porta:3000 - acesse <http://localhost:3000>
 ```
+
+### 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [Node.js](https://nodejs.org/en/)
+- [React](https://pt-br.reactjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Next.js](https://nextjs.org/)
+- [Sass](https://sass-lang.com/)
