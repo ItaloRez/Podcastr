@@ -1,17 +1,25 @@
-﻿Podcastr, Desenvolvimento da frontend de um site de podcast, acompanhando o evento NLW 5
+﻿Podcastr, Desenvolvimento da frontend de um site de podcast, acompanhando o evento NLW 5 da RocketSeat
  
- Como utilizar:
+ Para utilizar, baixar:
+ 
+ * Node.js
+ * yarn
+ 
+ Comandos para baixar dependências e inicializar server JSON de teste:
  
  * npm install
+ * yarn server
  
- Para rodar em modo de desenvolvimento:
+ Comandos para rodar a aplicação em modo de desenvolvimento:
  
  * yarn dev
  
- Para rodar em modo de produção:
+ Comandos para rodar a aplicação em modo de produção:
  
  * yarn build
  * yarn start 
+
+
 
 Dependências:
 
