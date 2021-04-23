@@ -54,6 +54,16 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Next.js](https://nextjs.org/)
 - [Sass](https://sass-lang.com/)
 
+## Demonstração
+
+<h1 align="center">
+  <img alt="Podcastr" title="#Podcastr" src="./public/prints/tela_inicial.png" />
+</h1>
+
+<h1 align="center">
+  <img alt="Podcastr" title="#Podcastr" src="./public/prints/tela_conteudo.png" />
+</h1>
+
 ## Autor
 
  <img src="https://avatars.githubusercontent.com/u/36886923?s=400&u=0f1b25cca90cce5bd10df913cd67ac05fc777213&v=4" width="100px" style="border-radius:10px"></img>
