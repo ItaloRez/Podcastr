@@ -11,8 +11,8 @@ Tabela de conteúdos
      * [Pré-Requisitos](#pré-requisitos)
      * [Rodando a aplicação](#-rodando-a-aplicação)
    * [Tecnologias](#-tecnologias)
-   * [Autor](#-autor)
-   * [Licença](#-liçenca)
+   * [Autor](#autor)
+   * [Licença](#liçenca)
 <!--te-->
  
 ## Como Usar
@@ -55,10 +55,9 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Sass](https://sass-lang.com/)
 
 ## Autor
----
 
- <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/36886923?s=400&u=0f1b25cca90cce5bd10df913cd67ac05fc777213&v=4" width="100px;" alt=""/>
- <br />
+ <img src="https://avatars.githubusercontent.com/u/36886923?s=400&u=0f1b25cca90cce5bd10df913cd67ac05fc777213&v=4" width="100px" style="border-radius:10px"></img>
+ <br/>
  <sub><b>Ítalo de Rezende</b></sub>🚀
 
 
