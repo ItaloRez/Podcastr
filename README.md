@@ -2,6 +2,10 @@
 
 ## Descrição do Projeto
 <p>Desenvolvimento da frontend de um site de podcast, acompanhando o evento NLW 5 da RocketSeat</p>
+
+<h4 align="center"> 
+	🚧  Aula 3 🚀 Em construção...  🚧
+</h4>
  
 Tabela de conteúdos
 =================
@@ -11,6 +15,7 @@ Tabela de conteúdos
      * [Pré-Requisitos](#pré-requisitos)
      * [Rodando a aplicação](#-rodando-a-aplicação)
    * [Tecnologias](#-tecnologias)
+   * [Demonstração](#demonstração)
    * [Autor](#autor)
    * [Licença](#liçenca)
 <!--te-->
@@ -53,6 +58,16 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [TypeScript](https://www.typescriptlang.org/)
 - [Next.js](https://nextjs.org/)
 - [Sass](https://sass-lang.com/)
+
+## Demonstração
+
+<h1 align="center">
+  <img alt="Podcastr" title="#Podcastr" src="./public/prints/tela_inicial.png" />
+</h1>
+
+<h1 align="center">
+  <img alt="Podcastr" title="#Podcastr" src="./public/prints/tela_conteudo.png" />
+</h1>
 
 ## Autor
 
