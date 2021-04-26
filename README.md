@@ -4,7 +4,7 @@
 <p>Desenvolvimento da frontend de um site de podcast, acompanhando o evento NLW 5 da RocketSeat</p>
 
 <h4 align="center"> 
-	🚧  Aula 3 🚀 Em construção...  🚧
+	🚧  Finalizado  🚧
 </h4>
  
 Tabela de conteúdos
