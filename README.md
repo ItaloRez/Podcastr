@@ -1,7 +1,7 @@
 <h1 align="center"> Podcastr </h1>
 
 ## Descrição do Projeto
-<p>Desenvolvimento da frontend de um site de podcast, acompanhando o evento NLW 5 da RocketSeat</p>
+<p>Desenvolvimento da frontend de um site de podcast, acompanhando o evento <strong>Next Level Week#5</strong> da <a href="https://rocketseat.com.br/">RocketSeat</a></p>
 
 <h4 align="center"> 
 	🚧  Finalizado  🚧
