@@ -32,7 +32,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 ```bash
 # Clone este repositório
-$ git clone <https://github.com/tgmarinho/ItaloRez/Podcastr/>
+$ git clone <https://github.com/ItaloRez/Podcastr/>
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd Podecastr
